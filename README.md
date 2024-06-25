@@ -1,5 +1,3 @@
-
-<img src="https://avatars.githubusercontent.com/u/901604?v=4" width="160px" alt="I'm in Yup Star Rio de Janeiro" />
 👋 Hi, I’m Jean J. Michel</br>
 👀 I'm curious about software design and development, agile methods and leadership skills for IT teams</br>
 🌱 I'm pursuing my learning journey about .NET, Javascript and Python languages, patterns, AI, Microsoft Powerplat and other related topics that I can store here in GitHub</br>
