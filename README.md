@@ -27,3 +27,5 @@ My career began in 2002, and since then...</br>
 ➾ Certified in cloud computing (as an Microsoft Azure Fundamentals and AWS Certified Cloud Practitioner) </br>
 ➾ Certified in agile methodologies (certified as Scrum Master and Product Owner by Scrum Alliance) </br>
 ➾ Certified in IT Service Management (ITIL and ISO 20.000) </br>
+</br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanjmichel&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanjmichel&layout=donut&theme=radical)](https://github.com/jeanjmichel/github-readme-stats)
