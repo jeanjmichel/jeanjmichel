@@ -27,6 +27,7 @@
 ➾ Certified in cloud computing (Microsoft Azure Fundamentals and AWS Certified Cloud Practitioner) </br>
 ➾ Certified in artifical intelligence (Microsoft Azure AI Fundamentals) </br>
 ➾ Certified in agile methodologies (certified as Scrum Master and Product Owner by Scrum Alliance) </br>
+➾ Certified in cybersecurity, compliance and identity (Microsoft Security, Compliance, and Identity Fundamentals) </br>
 ➾ Certified in IT Service Management (ITIL and ISO 20.000) </br>
 
 #### 🧑🏻‍💻 And I have been in touch with this technologies <br/>
